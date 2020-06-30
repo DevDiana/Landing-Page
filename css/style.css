@@ -65,6 +65,9 @@ html,body{
 	font-size: 17px;
 	font-weight: bold;
 }
+.clear{
+	clear: both;
+}
 .form p{
 	margin: 20px 0;
 }
@@ -162,4 +165,13 @@ html,body{
 .container-single p{
 	text-align: justify;
 	padding: 10px 25px;
+}
+.footer{
+	border-top: 4px solid #888888;
+	padding: 20px 0;
+	text-align: center;
+	color: #888;
+}
+.footer p{
+	margin-top: 8px;
 }
